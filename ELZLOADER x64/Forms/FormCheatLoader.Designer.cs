@@ -86,7 +86,7 @@
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(371, 17);
             this.label2.TabIndex = 6;
-            this.label2.Text = "Copyright © 2023, TheReifer_. All rights reserved.";
+            this.label2.Text = "Copyright © 2025, ZygoteCode. All rights reserved.";
             this.label2.TextAlign = System.Drawing.ContentAlignment.TopCenter;
             // 
             // timer1
