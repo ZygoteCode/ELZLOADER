@@ -284,7 +284,7 @@
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(283, 17);
             this.label2.TabIndex = 40;
-            this.label2.Text = "Copyright © 2022, TheReifer_. All rights reserved.";
+            this.label2.Text = "Copyright © 2025, ZygoteCode. All rights reserved.";
             this.label2.TextAlign = System.Drawing.ContentAlignment.TopCenter;
             // 
             // siticoneCheckBox2
