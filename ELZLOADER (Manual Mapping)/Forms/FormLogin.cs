@@ -101,7 +101,7 @@ public partial class FormLogin : MetroForm
             {
                 if (System.IO.File.Exists(Environment.SystemDirectory.Substring(0, 2) + "\\Windows\\System32\\drivers\\etc\\hosts"))
                 {
-                    if (System.IO.File.ReadAllText(Environment.SystemDirectory.Substring(0, 2) + "\\Windows\\System32\\drivers\\etc\\hosts").Contains("zioeren.it") || System.IO.File.ReadAllText(Environment.SystemDirectory.Substring(0, 2) + "\\Windows\\System32\\drivers\\etc\\hosts").Contains("185.197.194.66"))
+                    if (System.IO.File.ReadAllText(Environment.SystemDirectory.Substring(0, 2) + "\\Windows\\System32\\drivers\\etc\\hosts").Contains("zygotecode.it") || System.IO.File.ReadAllText(Environment.SystemDirectory.Substring(0, 2) + "\\Windows\\System32\\drivers\\etc\\hosts").Contains("185.197.194.66"))
                     {
                         CrashReporting.WriteCrashReport("Detection 5, Hosts File");
                         Process.GetCurrentProcess().Kill();
@@ -120,7 +120,7 @@ public partial class FormLogin : MetroForm
 
                 foreach (var ip in host.AddressList)
                 {
-                    if (ip.ToString().Equals("zioeren.it") || ip.ToString().Equals("185.197.194.66"))
+                    if (ip.ToString().Equals("zygotecode.it") || ip.ToString().Equals("185.197.194.66"))
                     {
                         CrashReporting.WriteCrashReport("Detection 6, Anti Proxy");
                         Process.GetCurrentProcess().Kill();
@@ -135,7 +135,7 @@ public partial class FormLogin : MetroForm
 
             try
             {
-                var host1 = Dns.GetHostAddresses("zioeren.it");
+                var host1 = Dns.GetHostAddresses("zygotecode.it");
 
                 foreach (var ip in host1)
                 {
