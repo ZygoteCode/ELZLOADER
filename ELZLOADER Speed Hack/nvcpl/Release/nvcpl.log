@@ -1,0 +1,38 @@
+﻿  Speedhack.cpp
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER Project\ELZLOADER Speed Hack\nvcpl\Speedhack.cpp(12,22): error C4430: identificatore di tipo mancante, verrà utilizzato int. Nota: default-int non è più supportato in C++
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER Project\ELZLOADER Speed Hack\nvcpl\Speedhack.cpp(12,17): error C2146: errore di sintassi: ';' mancante prima dell'identificatore '_GTC'
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER Project\ELZLOADER Speed Hack\nvcpl\Speedhack.cpp(15,26): error C4430: identificatore di tipo mancante, verrà utilizzato int. Nota: default-int non è più supportato in C++
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER Project\ELZLOADER Speed Hack\nvcpl\Speedhack.cpp(15,19): error C2146: errore di sintassi: ';' mancante prima dell'identificatore '_GTC64'
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER Project\ELZLOADER Speed Hack\nvcpl\Speedhack.cpp(18,33): error C4430: identificatore di tipo mancante, verrà utilizzato int. Nota: default-int non è più supportato in C++
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER Project\ELZLOADER Speed Hack\nvcpl\Speedhack.cpp(18,28): error C2146: errore di sintassi: ';' mancante prima dell'identificatore '_QPC'
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER Project\ELZLOADER Speed Hack\nvcpl\Speedhack.cpp(23,30): error C3861: '_GTC': identificatore non trovato
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER Project\ELZLOADER Speed Hack\nvcpl\Speedhack.cpp(28,32): error C3861: '_GTC64': identificatore non trovato
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER Project\ELZLOADER Speed Hack\nvcpl\Speedhack.cpp(34,3): error C3861: '_QPC': identificatore non trovato
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER Project\ELZLOADER Speed Hack\nvcpl\Speedhack.cpp(35,59): warning C4244: '=': conversione da 'double' a 'LONGLONG'. Possibile perdita di dati.
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER Project\ELZLOADER Speed Hack\nvcpl\Speedhack.cpp(41,3): error C2065: '_GTC': identificatore non dichiarato
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER Project\ELZLOADER Speed Hack\nvcpl\Speedhack.cpp(42,19): error C3861: '_GTC': identificatore non trovato
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER Project\ELZLOADER Speed Hack\nvcpl\Speedhack.cpp(45,3): error C2065: '_GTC64': identificatore non dichiarato
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER Project\ELZLOADER Speed Hack\nvcpl\Speedhack.cpp(46,21): error C3861: '_GTC64': identificatore non trovato
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER Project\ELZLOADER Speed Hack\nvcpl\Speedhack.cpp(49,3): error C2065: '_QPC': identificatore non dichiarato
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER Project\ELZLOADER Speed Hack\nvcpl\Speedhack.cpp(50,3): error C3861: '_QPC': identificatore non trovato
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER Project\ELZLOADER Speed Hack\nvcpl\Speedhack.cpp(53,3): error C3861: 'DetourTransactionBegin': identificatore non trovato
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER Project\ELZLOADER Speed Hack\nvcpl\Speedhack.cpp(54,3): error C3861: 'DetourUpdateThread': identificatore non trovato
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER Project\ELZLOADER Speed Hack\nvcpl\Speedhack.cpp(56,25): error C2065: '_GTC': identificatore non dichiarato
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER Project\ELZLOADER Speed Hack\nvcpl\Speedhack.cpp(56,3): error C3861: 'DetourAttach': identificatore non trovato
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER Project\ELZLOADER Speed Hack\nvcpl\Speedhack.cpp(57,25): error C2065: '_GTC64': identificatore non dichiarato
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER Project\ELZLOADER Speed Hack\nvcpl\Speedhack.cpp(57,3): error C3861: 'DetourAttach': identificatore non trovato
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER Project\ELZLOADER Speed Hack\nvcpl\Speedhack.cpp(58,25): error C2065: '_QPC': identificatore non dichiarato
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER Project\ELZLOADER Speed Hack\nvcpl\Speedhack.cpp(58,3): error C3861: 'DetourAttach': identificatore non trovato
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER Project\ELZLOADER Speed Hack\nvcpl\Speedhack.cpp(60,3): error C3861: 'DetourTransactionCommit': identificatore non trovato
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER Project\ELZLOADER Speed Hack\nvcpl\Speedhack.cpp(67,3): error C3861: 'DetourTransactionBegin': identificatore non trovato
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER Project\ELZLOADER Speed Hack\nvcpl\Speedhack.cpp(68,3): error C3861: 'DetourUpdateThread': identificatore non trovato
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER Project\ELZLOADER Speed Hack\nvcpl\Speedhack.cpp(70,25): error C2065: '_GTC': identificatore non dichiarato
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER Project\ELZLOADER Speed Hack\nvcpl\Speedhack.cpp(70,3): error C3861: 'DetourDetach': identificatore non trovato
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER Project\ELZLOADER Speed Hack\nvcpl\Speedhack.cpp(71,25): error C2065: '_GTC64': identificatore non dichiarato
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER Project\ELZLOADER Speed Hack\nvcpl\Speedhack.cpp(71,3): error C3861: 'DetourDetach': identificatore non trovato
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER Project\ELZLOADER Speed Hack\nvcpl\Speedhack.cpp(72,25): error C2065: '_QPC': identificatore non dichiarato
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER Project\ELZLOADER Speed Hack\nvcpl\Speedhack.cpp(72,3): error C3861: 'DetourDetach': identificatore non trovato
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER Project\ELZLOADER Speed Hack\nvcpl\Speedhack.cpp(74,3): error C3861: 'DetourTransactionCommit': identificatore non trovato
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER Project\ELZLOADER Speed Hack\nvcpl\Speedhack.cpp(84,20): error C3861: '_GTC': identificatore non trovato
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER Project\ELZLOADER Speed Hack\nvcpl\Speedhack.cpp(87,22): error C3861: '_GTC64': identificatore non trovato
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER Project\ELZLOADER Speed Hack\nvcpl\Speedhack.cpp(90,4): error C3861: '_QPC': identificatore non trovato

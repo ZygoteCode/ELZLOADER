@@ -1,0 +1,29 @@
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER Admin Panel\bin\Release\ELZLOADER Admin Panel.exe.config
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER Admin Panel\bin\Release\ELZLOADER Admin Panel.exe
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER Admin Panel\bin\Release\websocket-sharp.dll
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER Admin Panel\bin\Release\websocket-sharp.pdb
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER Admin Panel\obj\Release\ELZLOADER Admin Panel.csproj.AssemblyReference.cache
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER Admin Panel\obj\Release\ELZLOADER Admin Panel.csproj.CoreCompileInputs.cache
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER Admin Panel\obj\Release\ELZLOADER Admin Panel.csproj.CopyComplete
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER Admin Panel\obj\Release\ELZLOADER Admin Panel.exe
+C:\Users\ZygoteCode\Desktop\ELZLOADER Project\ELZLOADER Admin Panel\bin\Release\ELZLOADER Admin Panel.exe.config
+C:\Users\ZygoteCode\Desktop\ELZLOADER Project\ELZLOADER Admin Panel\bin\Release\ELZLOADER Admin Panel.exe
+C:\Users\ZygoteCode\Desktop\ELZLOADER Project\ELZLOADER Admin Panel\bin\Release\websocket-sharp.dll
+C:\Users\ZygoteCode\Desktop\ELZLOADER Project\ELZLOADER Admin Panel\obj\Release\ELZLOADER Admin Panel.csproj.AssemblyReference.cache
+C:\Users\ZygoteCode\Desktop\ELZLOADER Project\ELZLOADER Admin Panel\obj\Release\ELZLOADER Admin Panel.csproj.CoreCompileInputs.cache
+C:\Users\ZygoteCode\Desktop\ELZLOADER Project\ELZLOADER Admin Panel\obj\Release\ELZLOADER Admin Panel.csproj.CopyComplete
+C:\Users\ZygoteCode\Desktop\ELZLOADER Project\ELZLOADER Admin Panel\obj\Release\ELZLOADER Admin Panel.exe
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER Project\ELZLOADER Admin Panel\bin\Release\ELZLOADER Admin Panel.exe.config
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER Project\ELZLOADER Admin Panel\bin\Release\ELZLOADER Admin Panel.exe
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER Project\ELZLOADER Admin Panel\bin\Release\websocket-sharp.dll
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER Project\ELZLOADER Admin Panel\obj\Release\ELZLOADER Admin Panel.csproj.AssemblyReference.cache
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER Project\ELZLOADER Admin Panel\obj\Release\ELZLOADER Admin Panel.csproj.CoreCompileInputs.cache
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER Project\ELZLOADER Admin Panel\obj\Release\ELZLOADER Admin Panel.csproj.CopyComplete
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER Project\ELZLOADER Admin Panel\obj\Release\ELZLOADER Admin Panel.exe
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER Project\ELZLOADER Admin Panel\bin\Release\ELZLOADER Admin Panel.exe.config
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER Project\ELZLOADER Admin Panel\bin\Release\ELZLOADER Admin Panel.exe
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER Project\ELZLOADER Admin Panel\bin\Release\websocket-sharp.dll
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER Project\ELZLOADER Admin Panel\obj\Release\ELZLOADER Admin Panel.csproj.AssemblyReference.cache
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER Project\ELZLOADER Admin Panel\obj\Release\ELZLOADER Admin Panel.csproj.CoreCompileInputs.cache
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER Project\ELZLOADER Admin Panel\obj\Release\ELZLOADER Admin Panel.csproj.CopyComplete
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER Project\ELZLOADER Admin Panel\obj\Release\ELZLOADER Admin Panel.exe

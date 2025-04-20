@@ -1,0 +1,75 @@
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADERServer\bin\Release\net6.0\ELZLOADERServer.exe
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADERServer\bin\Release\net6.0\ELZLOADERServer.deps.json
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADERServer\bin\Release\net6.0\ELZLOADERServer.runtimeconfig.json
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADERServer\bin\Release\net6.0\ELZLOADERServer.dll
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADERServer\bin\Release\net6.0\ELZLOADERServer.pdb
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADERServer\bin\Release\net6.0\Newtonsoft.Json.dll
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADERServer\bin\Release\net6.0\ProtoRandom.dll
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADERServer\bin\Release\net6.0\websocket-sharp.pdb
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADERServer\obj\Release\net6.0\ELZLOADERServer.csproj.AssemblyReference.cache
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADERServer\obj\Release\net6.0\ELZLOADERServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADERServer\obj\Release\net6.0\ELZLOADERServer.AssemblyInfoInputs.cache
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADERServer\obj\Release\net6.0\ELZLOADERServer.AssemblyInfo.cs
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADERServer\obj\Release\net6.0\ELZLOADERServer.csproj.CoreCompileInputs.cache
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADERServer\obj\Release\net6.0\ELZLOADERServer.csproj.CopyComplete
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADERServer\obj\Release\net6.0\ELZLOADERServer.dll
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADERServer\obj\Release\net6.0\refint\ELZLOADERServer.dll
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADERServer\obj\Release\net6.0\ELZLOADERServer.pdb
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADERServer\obj\Release\net6.0\ELZLOADERServer.genruntimeconfig.cache
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADERServer\obj\Release\net6.0\ref\ELZLOADERServer.dll
+C:\Users\ZygoteCode\Desktop\ELZLOADER Project\ELZLOADERServer\bin\Release\net6.0\ELZLOADERServer.exe
+C:\Users\ZygoteCode\Desktop\ELZLOADER Project\ELZLOADERServer\bin\Release\net6.0\ELZLOADERServer.deps.json
+C:\Users\ZygoteCode\Desktop\ELZLOADER Project\ELZLOADERServer\bin\Release\net6.0\ELZLOADERServer.runtimeconfig.json
+C:\Users\ZygoteCode\Desktop\ELZLOADER Project\ELZLOADERServer\bin\Release\net6.0\ELZLOADERServer.dll
+C:\Users\ZygoteCode\Desktop\ELZLOADER Project\ELZLOADERServer\bin\Release\net6.0\ELZLOADERServer.pdb
+C:\Users\ZygoteCode\Desktop\ELZLOADER Project\ELZLOADERServer\bin\Release\net6.0\Newtonsoft.Json.dll
+C:\Users\ZygoteCode\Desktop\ELZLOADER Project\ELZLOADERServer\bin\Release\net6.0\ProtoRandom.dll
+C:\Users\ZygoteCode\Desktop\ELZLOADER Project\ELZLOADERServer\bin\Release\net6.0\websocket-sharp.dll
+C:\Users\ZygoteCode\Desktop\ELZLOADER Project\ELZLOADERServer\bin\Release\net6.0\websocket-sharp.pdb
+C:\Users\ZygoteCode\Desktop\ELZLOADER Project\ELZLOADERServer\obj\Release\net6.0\ELZLOADERServer.csproj.AssemblyReference.cache
+C:\Users\ZygoteCode\Desktop\ELZLOADER Project\ELZLOADERServer\obj\Release\net6.0\ELZLOADERServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZygoteCode\Desktop\ELZLOADER Project\ELZLOADERServer\obj\Release\net6.0\ELZLOADERServer.AssemblyInfoInputs.cache
+C:\Users\ZygoteCode\Desktop\ELZLOADER Project\ELZLOADERServer\obj\Release\net6.0\ELZLOADERServer.AssemblyInfo.cs
+C:\Users\ZygoteCode\Desktop\ELZLOADER Project\ELZLOADERServer\obj\Release\net6.0\ELZLOADERServer.csproj.CoreCompileInputs.cache
+C:\Users\ZygoteCode\Desktop\ELZLOADER Project\ELZLOADERServer\obj\Release\net6.0\ELZLOADERServer.csproj.CopyComplete
+C:\Users\ZygoteCode\Desktop\ELZLOADER Project\ELZLOADERServer\obj\Release\net6.0\ELZLOADERServer.dll
+C:\Users\ZygoteCode\Desktop\ELZLOADER Project\ELZLOADERServer\obj\Release\net6.0\refint\ELZLOADERServer.dll
+C:\Users\ZygoteCode\Desktop\ELZLOADER Project\ELZLOADERServer\obj\Release\net6.0\ELZLOADERServer.pdb
+C:\Users\ZygoteCode\Desktop\ELZLOADER Project\ELZLOADERServer\obj\Release\net6.0\ELZLOADERServer.genruntimeconfig.cache
+C:\Users\ZygoteCode\Desktop\ELZLOADER Project\ELZLOADERServer\obj\Release\net6.0\ref\ELZLOADERServer.dll
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER Project\ELZLOADERServer\bin\Release\net6.0\ELZLOADERServer.exe
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER Project\ELZLOADERServer\bin\Release\net6.0\ELZLOADERServer.deps.json
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER Project\ELZLOADERServer\bin\Release\net6.0\ELZLOADERServer.runtimeconfig.json
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER Project\ELZLOADERServer\bin\Release\net6.0\ELZLOADERServer.dll
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER Project\ELZLOADERServer\bin\Release\net6.0\ELZLOADERServer.pdb
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER Project\ELZLOADERServer\bin\Release\net6.0\Newtonsoft.Json.dll
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER Project\ELZLOADERServer\bin\Release\net6.0\websocket-sharp.dll
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER Project\ELZLOADERServer\obj\Release\net6.0\ELZLOADERServer.csproj.AssemblyReference.cache
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER Project\ELZLOADERServer\obj\Release\net6.0\ELZLOADERServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER Project\ELZLOADERServer\obj\Release\net6.0\ELZLOADERServer.AssemblyInfoInputs.cache
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER Project\ELZLOADERServer\obj\Release\net6.0\ELZLOADERServer.AssemblyInfo.cs
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER Project\ELZLOADERServer\obj\Release\net6.0\ELZLOADERServer.csproj.CoreCompileInputs.cache
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER Project\ELZLOADERServer\obj\Release\net6.0\ELZLOADERServer.csproj.CopyComplete
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER Project\ELZLOADERServer\obj\Release\net6.0\ELZLOADERServer.dll
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER Project\ELZLOADERServer\obj\Release\net6.0\refint\ELZLOADERServer.dll
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER Project\ELZLOADERServer\obj\Release\net6.0\ELZLOADERServer.pdb
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER Project\ELZLOADERServer\obj\Release\net6.0\ELZLOADERServer.genruntimeconfig.cache
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER Project\ELZLOADERServer\obj\Release\net6.0\ref\ELZLOADERServer.dll
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER Project\ELZLOADERServer\bin\Release\net6.0\ELZLOADERServer.exe
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER Project\ELZLOADERServer\bin\Release\net6.0\ELZLOADERServer.deps.json
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER Project\ELZLOADERServer\bin\Release\net6.0\ELZLOADERServer.runtimeconfig.json
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER Project\ELZLOADERServer\bin\Release\net6.0\ELZLOADERServer.dll
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER Project\ELZLOADERServer\bin\Release\net6.0\ELZLOADERServer.pdb
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER Project\ELZLOADERServer\bin\Release\net6.0\Newtonsoft.Json.dll
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER Project\ELZLOADERServer\bin\Release\net6.0\websocket-sharp.dll
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER Project\ELZLOADERServer\obj\Release\net6.0\ELZLOADERServer.csproj.AssemblyReference.cache
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER Project\ELZLOADERServer\obj\Release\net6.0\ELZLOADERServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER Project\ELZLOADERServer\obj\Release\net6.0\ELZLOADERServer.AssemblyInfoInputs.cache
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER Project\ELZLOADERServer\obj\Release\net6.0\ELZLOADERServer.AssemblyInfo.cs
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER Project\ELZLOADERServer\obj\Release\net6.0\ELZLOADERServer.csproj.CoreCompileInputs.cache
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER Project\ELZLOADERServer\obj\Release\net6.0\ELZLOADERServer.csproj.CopyComplete
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER Project\ELZLOADERServer\obj\Release\net6.0\ELZLOADERServer.dll
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER Project\ELZLOADERServer\obj\Release\net6.0\refint\ELZLOADERServer.dll
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER Project\ELZLOADERServer\obj\Release\net6.0\ELZLOADERServer.pdb
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER Project\ELZLOADERServer\obj\Release\net6.0\ELZLOADERServer.genruntimeconfig.cache
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER Project\ELZLOADERServer\obj\Release\net6.0\ref\ELZLOADERServer.dll

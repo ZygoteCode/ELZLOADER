@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ELZLOADER Admin Panel", "ELZLOADER Admin Panel.csproj", "{7DC40D34-07C7-440F-84B3-A472A0B6CA2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DC40D34-07C7-440F-84B3-A472A0B6CA2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DC40D34-07C7-440F-84B3-A472A0B6CA2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DC40D34-07C7-440F-84B3-A472A0B6CA2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DC40D34-07C7-440F-84B3-A472A0B6CA2E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D3D3939-8688-45C3-B600-C0C6A73E61BE}
+	EndGlobalSection
+EndGlobal

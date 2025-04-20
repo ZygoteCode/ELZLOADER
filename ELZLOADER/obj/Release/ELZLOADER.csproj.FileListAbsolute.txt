@@ -1,0 +1,62 @@
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER\bin\Release\ELZLOADER.exe.config
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER\bin\Release\ELZLOADER.exe
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER\bin\Release\FastColoredTextBox.dll
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER\bin\Release\Guna.UI.dll
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER\bin\Release\MetroSuite 2.0.dll
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER\bin\Release\ProtoRandom.dll
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER\bin\Release\Siticone.UI.dll
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER\bin\Release\websocket-sharp.dll
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER\bin\Release\websocket-sharp.pdb
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER\obj\Release\ELZLOADER.csproj.AssemblyReference.cache
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER\obj\Release\FormCheatLoader.resources
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER\obj\Release\FormLogin.resources
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER\obj\Release\FormLuaInjector.resources
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER\obj\Release\ELZLOADER.Properties.Resources.resources
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER\obj\Release\ELZLOADER.csproj.GenerateResource.cache
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER\obj\Release\ELZLOADER.csproj.CoreCompileInputs.cache
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER\obj\Release\ELZLOADER.csproj.CopyComplete
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER\obj\Release\ELZLOADER.exe
+C:\Users\ZygoteCode\Desktop\ELZLOADER Project\ELZLOADER\bin\Release\ELZLOADER.exe.config
+C:\Users\ZygoteCode\Desktop\ELZLOADER Project\ELZLOADER\bin\Release\ELZLOADER.exe
+C:\Users\ZygoteCode\Desktop\ELZLOADER Project\ELZLOADER\obj\Release\ELZLOADER.csproj.AssemblyReference.cache
+C:\Users\ZygoteCode\Desktop\ELZLOADER Project\ELZLOADER\obj\Release\FormCheatLoader.resources
+C:\Users\ZygoteCode\Desktop\ELZLOADER Project\ELZLOADER\obj\Release\FormLogin.resources
+C:\Users\ZygoteCode\Desktop\ELZLOADER Project\ELZLOADER\obj\Release\FormLuaInjector.resources
+C:\Users\ZygoteCode\Desktop\ELZLOADER Project\ELZLOADER\obj\Release\ELZLOADER.Properties.Resources.resources
+C:\Users\ZygoteCode\Desktop\ELZLOADER Project\ELZLOADER\obj\Release\ELZLOADER.csproj.GenerateResource.cache
+C:\Users\ZygoteCode\Desktop\ELZLOADER Project\ELZLOADER\obj\Release\ELZLOADER.csproj.CoreCompileInputs.cache
+C:\Users\ZygoteCode\Desktop\ELZLOADER Project\ELZLOADER\obj\Release\ELZLOADER.csproj.CopyComplete
+C:\Users\ZygoteCode\Desktop\ELZLOADER Project\ELZLOADER\obj\Release\ELZLOADER.exe
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER Project\ELZLOADER\bin\Release\ELZLOADER.exe.config
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER Project\ELZLOADER\bin\Release\ELZLOADER.exe
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER Project\ELZLOADER\obj\Release\ELZLOADER.csproj.AssemblyReference.cache
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER Project\ELZLOADER\obj\Release\FormCheatLoader.resources
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER Project\ELZLOADER\obj\Release\FormLogin.resources
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER Project\ELZLOADER\obj\Release\FormLuaInjector.resources
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER Project\ELZLOADER\obj\Release\ELZLOADER.Properties.Resources.resources
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER Project\ELZLOADER\obj\Release\ELZLOADER.csproj.GenerateResource.cache
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER Project\ELZLOADER\obj\Release\ELZLOADER.csproj.CoreCompileInputs.cache
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER Project\ELZLOADER\obj\Release\ELZLOADER.csproj.CopyComplete
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER Project\ELZLOADER\obj\Release\ELZLOADER.exe
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER Project\ELZLOADER\bin\Release\ELZLOADER.exe.config
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER Project\ELZLOADER\bin\Release\ELZLOADER.exe
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER Project\ELZLOADER\obj\Release\ELZLOADER.csproj.AssemblyReference.cache
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER Project\ELZLOADER\obj\Release\FormCheatLoader.resources
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER Project\ELZLOADER\obj\Release\FormLogin.resources
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER Project\ELZLOADER\obj\Release\FormLuaInjector.resources
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER Project\ELZLOADER\obj\Release\ELZLOADER.Properties.Resources.resources
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER Project\ELZLOADER\obj\Release\ELZLOADER.csproj.GenerateResource.cache
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER Project\ELZLOADER\obj\Release\ELZLOADER.csproj.CoreCompileInputs.cache
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER Project\ELZLOADER\obj\Release\ELZLOADER.csproj.CopyComplete
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\ELZLOADER Project\ELZLOADER\obj\Release\ELZLOADER.exe
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\Personal Projects\ELZLOADER Project\ELZLOADER\bin\Release\ELZLOADER.exe.config
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\Personal Projects\ELZLOADER Project\ELZLOADER\bin\Release\ELZLOADER.exe
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\Personal Projects\ELZLOADER Project\ELZLOADER\obj\Release\ELZLOADER.csproj.AssemblyReference.cache
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\Personal Projects\ELZLOADER Project\ELZLOADER\obj\Release\FormCheatLoader.resources
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\Personal Projects\ELZLOADER Project\ELZLOADER\obj\Release\FormLogin.resources
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\Personal Projects\ELZLOADER Project\ELZLOADER\obj\Release\FormLuaInjector.resources
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\Personal Projects\ELZLOADER Project\ELZLOADER\obj\Release\ELZLOADER.Properties.Resources.resources
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\Personal Projects\ELZLOADER Project\ELZLOADER\obj\Release\ELZLOADER.csproj.GenerateResource.cache
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\Personal Projects\ELZLOADER Project\ELZLOADER\obj\Release\ELZLOADER.csproj.CoreCompileInputs.cache
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\Personal Projects\ELZLOADER Project\ELZLOADER\obj\Release\ELZLOADER.csproj.CopyComplete
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\Personal Projects\ELZLOADER Project\ELZLOADER\obj\Release\ELZLOADER.exe
